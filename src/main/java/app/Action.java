@@ -1,4 +1,4 @@
 package app;
 
-public enum Action {
+ public enum Action {
 	INSERT, DELETE, UPDATE }
